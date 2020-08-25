@@ -1,0 +1,18 @@
+.index-header {
+  margin-top: 350px;
+  margin-left: 100px;
+  color: azure;
+}
+
+.index-header__title {
+  font-size: 50px;
+}
+
+.index-explain__text {
+  margin-top: 65px;
+}
+
+.index-explain__content {
+  font-weight: 600;
+  font-size: 15px;
+}

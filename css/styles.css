@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Recursive:wght@300;600;900&display=swap");
+@import "reset.css";
+/*Components */
+@import "components/nav-btn.css";
+
+/*screens */
+@import "components/home.css";
+
+body {
+  font-family: "Recursive", sans-serif;
+  background-image: url(https://images.unsplash.com/photo-1548113616-32c0de183d17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 300vh;
+}
+
+#europe {
+  background-image: url(https://images.unsplash.com/photo-1585871171640-95e4e74a392f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#africa {
+  background-image: url(https://images.unsplash.com/photo-1517324855014-2e9d1b537f87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#asia {
+  background-image: url(https://images.unsplash.com/photo-1596360628086-0f70382c9764?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#oceania {
+  background-image: url(https://images.unsplash.com/photo-1490443849367-d12c30dbf95c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1084&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#north-america {
+  background-image: url(https://images.unsplash.com/photo-1560995148-8e55d1a7054f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1194&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#south-america {
+  background-image: url(https://images.unsplash.com/photo-1527622736330-037db1edcd83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#arctic {
+  background-image: url(https://images.unsplash.com/photo-1472656877636-35a4bb852385?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#antarctica {
+  background-image: url(https://images.unsplash.com/photo-1519713319223-70371c5c5aeb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  background-color: transprent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
